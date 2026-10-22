@@ -1,0 +1,7 @@
+torch>=2.2
+numpy>=1.24
+datasets>=2.18
+transformers>=4.40
+tqdm>=4.66
+nvidia-ml-py>=12.0
+triton>=3.0
